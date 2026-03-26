@@ -4,7 +4,7 @@ uvicorn==0.34.0
 gunicorn==23.0.0
 psycopg[binary]==3.2.6
 dj-database-url==2.3.0
-requests==2.32.3
+requests==2.33.0
 whitenoise==6.9.0
 starlette==0.45.3
 python-dotenv==1.0.1
